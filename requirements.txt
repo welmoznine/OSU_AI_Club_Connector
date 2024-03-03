@@ -42,7 +42,6 @@ langchain-experimental==0.0.53
 langchain-openai==0.0.8
 langchain-text-splitters==0.0.1
 langsmith==0.1.13
-language-selector==0.1
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
