@@ -10,20 +10,16 @@ OSU AI Club Connector leverages OpenAI’s GPT-4, alongside a carefully curated 
 ## Getting Started
 To run the project locally, follow these steps:
 1. Get an OpenAI API Key at https://openai.com/blog/openai-api:
-2. Clone the repo
+2. Clone the repo with GitHub CLI
+`gh repo clone welmoznine/OSU_AI_Club_Connector`
    
-3. Install the necessary packages:
+4. Install the necessary packages:
 
 To run the Flask app:
-`pip install python-dotenv`
-`pip install langchain`   
-`pip install langchain-core`
-`pip install langchain_experimental`
-`pip install langchain_openai`
+`pip install python-dotenv langchain langchain-core langchain_experimental langchain_openai`
 
 To run the OSU club data scraper (not necessary if using the :
-`pip install requests`   
-`pip install beautifulsoup4`
+`pip install requests beautifulsoup4`
 
 5. Run the Flass app with the following command:
 `python3 app.py`
