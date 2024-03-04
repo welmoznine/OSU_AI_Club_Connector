@@ -30,7 +30,10 @@ To run the OSU club data scraper (not necessary if using the :
 
 
 ## Usage
+Open the app and type anything into the input box
 ![OSU_AI_Club_Connector #1](https://github.com/welmoznine/OSU_AI_Club_Connector/blob/main/static/OSU_AI_Club_Connector.png)
+
+Chat with the app and discover clubs and organizations at OSU that align with your hobbies and unique passions 
 ![OSU_AI_Club_Connector #2](https://github.com/welmoznine/OSU_AI_Club_Connector/blob/main/static/OSU_AI_Club_Connector2.png)
 
 ## Built With
@@ -51,4 +54,3 @@ The following resources were extremely helpful in learning about LangChain:
   
 The UI for the project was inspired by the following video: 
 - [Learn How to Build a Chatbot with Flask - Step-by-Step Tutorial with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=70H_7C0kMbI)
-- 
